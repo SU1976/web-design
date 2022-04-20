@@ -1,0 +1,7 @@
+C:\Users\p10441978\source\repos\Basicoop\bin\Debug\Basicoop.exe.config
+C:\Users\p10441978\source\repos\Basicoop\bin\Debug\Basicoop.exe
+C:\Users\p10441978\source\repos\Basicoop\bin\Debug\Basicoop.pdb
+C:\Users\p10441978\source\repos\Basicoop\obj\Debug\Basicoop.csproj.AssemblyReference.cache
+C:\Users\p10441978\source\repos\Basicoop\obj\Debug\Basicoop.csproj.CoreCompileInputs.cache
+C:\Users\p10441978\source\repos\Basicoop\obj\Debug\Basicoop.exe
+C:\Users\p10441978\source\repos\Basicoop\obj\Debug\Basicoop.pdb
